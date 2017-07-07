@@ -8,7 +8,7 @@ target 'TestTask' do
  	pod 'RxSwift'
   	  pod 'RxCocoa'
       pod 'SwiftyJSON', :git => 'https://github.com/SwiftyJSON/SwiftyJSON.git'
-      
+      pod 'DeviceKit'
       pod 'RxAlamofire'
   # Pods for TestTask
 

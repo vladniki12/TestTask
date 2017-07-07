@@ -9,6 +9,11 @@
 			<key>isShown</key>
 			<false/>
 		</dict>
+		<key>DeviceKit.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
 		<key>Pods-TestTask.xcscheme</key>
 		<dict>
 			<key>isShown</key>
@@ -67,17 +72,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>538DBA582B9B410E5F9D20F1EB95F3B2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6848B02462BC980F16CF3176485AD8F1</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>6B97378C6262BC7013F10B9B66CBD45D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>6D30A20252AB1DDF006C77CC2717B57C</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>81D504891ED948E5DC8A2E9BB1A1A2A6</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>84E09773D901FDC8741916B086E347F2</key>
 		<dict>
 			<key>primary</key>
 			<true/>
@@ -87,22 +97,22 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>8B8D207CFB91A9DD89E50EFFE313302A</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>8F2B15DC1CCCFBBE1A5DA191C8837EDD</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>A7777F490D6E485E408E35ECD897E9BE</key>
+		<key>B74671AC4AD442223B677430EE6BBBF5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>E2BB50414B54CB00BE54566E88F6F8B4</key>
-		<dict>
-			<key>primary</key>
-			<true/>
-		</dict>
-		<key>E56F32EB8D2EB52314F443706EFA09BE</key>
+		<key>E2E93A7B4140F70AFCEDA7BCE6B9B892</key>
 		<dict>
 			<key>primary</key>
 			<true/>

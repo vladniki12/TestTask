@@ -9,6 +9,7 @@
 import UIKit
 import RxSwift
 import RxCocoa
+import DeviceKit
 
 class ViewController: UIViewController {
 
@@ -78,7 +79,27 @@ class ViewController: UIViewController {
             if self.view.frame.origin.y == 0{
                 heightMainView = Float(self.view.frame.origin.y)
                 
-                self.view.frame.origin.y -= keyboardSize.height/2.0
+                print(UIScreen.main.nativeScale)
+                
+                
+                let device = Device()
+                
+                if( device == .simulator(.iPhone5s) || device == .simulator(.iPhone5) || device == .simulator(.iPhone5c) || device == .simulator(.iPhoneSE) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/(2.0)
+                } else if( device == .simulator(.iPhone6s) || device == .simulator(.iPhone6) || device == .simulator(.iPhone7) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/(4.0)
+                } else if( device == .simulator(.iPhone6sPlus) || device == .simulator(.iPhone6Plus) || device == .simulator(.iPhone7Plus) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/2.0
+                }
+                
+                if( device == .iPhone5s || device == (.iPhone5) || device == (.iPhone5c) || device == (.iPhoneSE) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/(2.0)
+                } else if( device == (.iPhone6s) || device == (.iPhone6) || device == (.iPhone7) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/(4.0)
+                } else if( device == (.iPhone6sPlus) || device == (.iPhone6Plus) || device == (.iPhone7Plus) ) {
+                    self.view.frame.origin.y -= keyboardSize.height/2.0
+                }
+                
                 
                 
             }

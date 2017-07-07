@@ -1,5 +1,6 @@
 PODS:
   - Alamofire (4.5.0)
+  - DeviceKit (1.2.3)
   - RxAlamofire (3.0.3):
     - RxAlamofire/Core (= 3.0.3)
   - RxAlamofire/Core (3.0.3):
@@ -16,6 +17,7 @@ PODS:
 
 DEPENDENCIES:
   - Alamofire (~> 4.4)
+  - DeviceKit
   - RxAlamofire
   - RxBlocking
   - RxCocoa
@@ -34,6 +36,7 @@ CHECKOUT OPTIONS:
 
 SPEC CHECKSUMS:
   Alamofire: f28cdffd29de33a7bfa022cbd63ae95a27fae140
+  DeviceKit: f33cbc6e67d9bb416e42dedc647557c7c2f6d3d7
   RxAlamofire: 5eb39188c4917ad98127c0ecb4878a61b7517003
   RxBlocking: 471315e18b87c5ed4b9d0c69a57dfdbca5c01af1
   RxCocoa: a0a09f45d0e5b48ecb6a4a7b4b4c89c88d3f633f
@@ -41,6 +44,6 @@ SPEC CHECKSUMS:
   RxTest: 1763765fd0e2282b0eb44c9050effdd7fe7156d4
   SwiftyJSON: 05cf0e98a950e2ba343735264f5a96b81e755d00
 
-PODFILE CHECKSUM: ec91d5c7c1bf60f389d833cc6a43fdb6b4bd2253
+PODFILE CHECKSUM: f2dad93cb597968c1c44768d5d492801d8c52fc1
 
 COCOAPODS: 1.2.1

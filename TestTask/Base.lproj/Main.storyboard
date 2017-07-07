@@ -171,7 +171,7 @@
                             <constraint firstItem="C8k-oa-GXS" firstAttribute="top" secondItem="y3c-jy-aDJ" secondAttribute="bottom" constant="150" id="rxl-aN-ixW"/>
                         </constraints>
                         <connections>
-                            <outletCollection property="gestureRecognizers" destination="FK6-2y-0Ox" appends="YES" id="zRg-bZ-mWY"/>
+                            <outletCollection property="gestureRecognizers" destination="FK6-2y-0Ox" appends="YES" id="eeX-JA-RAZ"/>
                         </connections>
                     </view>
                     <navigationItem key="navigationItem" title="Авторизация" id="1Wf-1C-Jyj" colorLabel="IBBuiltInLabel-Blue">
@@ -182,12 +182,12 @@
                         </barButtonItem>
                     </navigationItem>
                     <connections>
-                        <outlet property="button" destination="tbT-Ri-89K" id="4MI-WP-kXI"/>
-                        <outlet property="emailTextView" destination="1Xj-7I-FL5" id="Ca6-Np-qR9"/>
-                        <outlet property="passwordTextView" destination="7kC-KI-UiX" id="VO0-Im-UYo"/>
-                        <outlet property="remeberMeButton" destination="u3R-oB-lDg" id="8El-XK-R7J"/>
-                        <outlet property="tapGuesterRcognizer" destination="FK6-2y-0Ox" id="7eQ-oj-9IS"/>
-                        <outlet property="viewComponents" destination="C8k-oa-GXS" id="T0s-h7-HWe"/>
+                        <outlet property="button" destination="tbT-Ri-89K" id="pRZ-FN-Eub"/>
+                        <outlet property="emailTextView" destination="1Xj-7I-FL5" id="hFq-gH-zGi"/>
+                        <outlet property="passwordTextView" destination="7kC-KI-UiX" id="asl-kp-46J"/>
+                        <outlet property="remeberMeButton" destination="u3R-oB-lDg" id="QXC-AC-67J"/>
+                        <outlet property="tapGuesterRcognizer" destination="FK6-2y-0Ox" id="KCm-Q5-q5h"/>
+                        <outlet property="viewComponents" destination="C8k-oa-GXS" id="8t2-qm-bwT"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>

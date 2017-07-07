@@ -431,38 +431,6 @@
             endingLineNumber = "81"
             landmarkName = "keyboardWillShow(notification:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestTask.ViewController.keyboardWillShow (notification : __ObjC.NSNotification) -&gt; ()"
-                  moduleName = "TestTask"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vladislavnovoseltsev/Desktop/ProjectsSwift/untitledfolder/TestTask/TestTask/ViewController.swift"
-                  timestampString = "521086804.566928"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "81"
-                  endingLineNumber = "81"
-                  offsetFromSymbolStart = "30">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestTask.ViewController.keyboardWillShow (notification : __ObjC.NSNotification) -&gt; ()"
-                  moduleName = "TestTask"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vladislavnovoseltsev/Desktop/ProjectsSwift/untitledfolder/TestTask/TestTask/ViewController.swift"
-                  timestampString = "521086804.569237"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "81"
-                  endingLineNumber = "81"
-                  offsetFromSymbolStart = "869">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -527,38 +495,6 @@
             endingLineNumber = "30"
             landmarkName = "getW(compleate:)"
             landmarkType = "7">
-            <Locations>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestTask.WeatherManager.getW (compleate : (__ObjC.NSNumber) -&gt; ()) -&gt; ()"
-                  moduleName = "TestTask"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vladislavnovoseltsev/Desktop/ProjectsSwift/untitledfolder/TestTask/TestTask/WeatherManager.swift"
-                  timestampString = "521086804.57962"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "30"
-                  endingLineNumber = "30"
-                  offsetFromSymbolStart = "710">
-               </Location>
-               <Location
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "TestTask.WeatherManager.(getW (compleate : (__ObjC.NSNumber) -&gt; ()) -&gt; ()).(closure #1)"
-                  moduleName = "TestTask"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/vladislavnovoseltsev/Desktop/ProjectsSwift/untitledfolder/TestTask/TestTask/WeatherManager.swift"
-                  timestampString = "521086804.583984"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "32"
-                  endingLineNumber = "32"
-                  offsetFromSymbolStart = "36">
-               </Location>
-            </Locations>
          </BreakpointContent>
       </BreakpointProxy>
       <BreakpointProxy
@@ -590,6 +526,54 @@
             startingLineNumber = "36"
             endingLineNumber = "36"
             landmarkName = "getW(compleate:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask/UI/ViewController.swift"
+            timestampString = "521094075.950667"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask/UI/ViewController.swift"
+            timestampString = "521094075.950667"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TestTask/UI/ViewController.swift"
+            timestampString = "521094285.316839"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "keyboardWillShow(notification:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
